@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "mon": "nodemon main.js",
-    "mon2": "nodemon main-20191008.js"
+    "mon2": "nodemon main-20191008.js",
+    "mon3": "nodemon main-20191022.js"
   },
   "author": "",
   "license": "ISC",
