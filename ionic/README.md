@@ -6,6 +6,7 @@ inspiration from https://github.com/saramic/learning/tree/master/ionic
 
 watched
 - half way throug 7. Our First Ionic App!
+  - https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/learn/lecture/13726184#notes
 - have not watched 4 & 5
 
 ```sh
