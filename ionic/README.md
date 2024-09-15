@@ -1,5 +1,13 @@
 # Ionic 
 
+## Sun 15 September
+
+- Finsihed chapter 7
+
+- learnt how to display variable with `{{ variable name }}`
+- and how to have a function which changes the variable
+- and a `ion-button` to call the function
+
 ## Fri 13 September
 
 inspiration from https://github.com/saramic/learning/tree/master/ionic
